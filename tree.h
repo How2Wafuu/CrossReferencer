@@ -1,5 +1,4 @@
-// 650615021 Thanchanok Kaweekul
-// 650615039 Atthaporn Srikiaw
+
 
 #include <queue>
 #include <stack>
