@@ -1,5 +1,3 @@
-// 650615021 Thanchanok Kaweekul
-// 650615039 Atthaporn Srikiaw
 
 #include <iostream>
 #include <fstream>
